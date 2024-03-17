@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chohyo_rulet/static/css/main.53f3e85b.css",
+    "main.js": "/chohyo_rulet/static/js/main.f50b525c.js",
+    "static/js/453.8729afda.chunk.js": "/chohyo_rulet/static/js/453.8729afda.chunk.js",
+    "static/media/logo.svg": "/chohyo_rulet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chohyo_rulet/index.html",
+    "main.53f3e85b.css.map": "/chohyo_rulet/static/css/main.53f3e85b.css.map",
+    "main.f50b525c.js.map": "/chohyo_rulet/static/js/main.f50b525c.js.map",
+    "453.8729afda.chunk.js.map": "/chohyo_rulet/static/js/453.8729afda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f3e85b.css",
+    "static/js/main.f50b525c.js"
+  ]
+}
